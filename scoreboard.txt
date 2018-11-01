@@ -1,0 +1,6 @@
+"Matchup(Team(The Tight End Zone), Team(Deez Lutz))"
+"Matchup(Team(For Whom The Bell Foles), Team(Saved by  Le'Bell ))"
+"Matchup(Team(Hunting Season), Team(Everybody Ertzzzz))"
+"Matchup(Team(THOR RagnaGRONK), Team(Turds of  Misery))"
+"Matchup(Team(Rawlin Blounts, Smokin Greens), Team(The Josh Gordon Comeback Squad))"
+"Matchup(Team(Albuquerque Isotopes), Team(Lord Evans Master of Trade))"
